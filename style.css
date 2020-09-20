@@ -9,7 +9,7 @@ main{
 }
 .landing{
     min-height: 100vh;
-    background: url("lap7.jpg");
+/*     background: url("lap7.jpg"); */
     background-size: cover;
     padding: 0rem 5rem;
 }
@@ -26,8 +26,8 @@ nav{
     list-style: none;
 }
 .nav-links li {
-    padding: 36px;
-    font-size: 2.2rem;
+    padding: 11px;
+    font-size: 1.2rem;
 }
 #logo{
     font-family: 'Raleway', sans-serif;
@@ -36,8 +36,8 @@ nav{
 }
 .big-text {
     position: absolute;
-    top: 26%;
-    left: 34%;
+    top: 34%;
+    left: 43%;
     transform: translate(-20%, -30%);
     font-size: 3rem;
     font-family: 'Raleway', sans-serif;
@@ -45,8 +45,8 @@ nav{
 }
 .big-text-again {
     position: absolute;
-    top: 46%;
-    left: 34%;
+    top: 66%;
+    left: 39%;
     transform: translate(-20%, -30%);
     font-size: 3rem;
     font-family: 'Raleway', sans-serif;
